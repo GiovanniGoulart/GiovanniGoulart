@@ -19,3 +19,8 @@ Contacts:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniGoulart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![meuavatar](https://github.com/GiovanniGoulart/GiovanniGoulart/assets/107950199/1179f0c9-7ea5-4403-98a5-57d9747f644a)
+
+![Snake animation](https://github.com/GiovanniGoulart/GiovanniGoulart/blob/output/github-contribution-grid-snake.svg)
+
+
